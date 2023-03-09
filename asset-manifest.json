@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JalenBCarter/github-brandon.git/static/css/main.073c9b0a.css",
-    "main.js": "/JalenBCarter/github-brandon.git/static/js/main.60e7b18f.js",
-    "static/js/787.19d05015.chunk.js": "/JalenBCarter/github-brandon.git/static/js/787.19d05015.chunk.js",
-    "static/media/logo.svg": "/JalenBCarter/github-brandon.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/JalenBCarter/github-brandon.git/index.html",
-    "main.073c9b0a.css.map": "/JalenBCarter/github-brandon.git/static/css/main.073c9b0a.css.map",
-    "main.60e7b18f.js.map": "/JalenBCarter/github-brandon.git/static/js/main.60e7b18f.js.map",
-    "787.19d05015.chunk.js.map": "/JalenBCarter/github-brandon.git/static/js/787.19d05015.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.84af545c.js",
+    "static/js/787.19d05015.chunk.js": "/static/js/787.19d05015.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.84af545c.js.map": "/static/js/main.84af545c.js.map",
+    "787.19d05015.chunk.js.map": "/static/js/787.19d05015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.60e7b18f.js"
+    "static/js/main.84af545c.js"
   ]
 }
